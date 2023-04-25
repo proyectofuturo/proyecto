@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\LN\LN\bin\Debug\LN.exe.config
+d:\documents\visual studio 2015\Projects\LN\LN\bin\Debug\LN.exe
+d:\documents\visual studio 2015\Projects\LN\LN\bin\Debug\LN.pdb
+d:\documents\visual studio 2015\Projects\LN\LN\obj\Debug\LN.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\LN\LN\obj\Debug\LN.Form1.resources
+d:\documents\visual studio 2015\Projects\LN\LN\obj\Debug\LN.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\LN\LN\obj\Debug\LN.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\LN\LN\obj\Debug\LN.exe
+d:\documents\visual studio 2015\Projects\LN\LN\obj\Debug\LN.pdb
